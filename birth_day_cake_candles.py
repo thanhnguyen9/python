@@ -13,3 +13,6 @@ def birthdayCakeCandles(n, ar):
             return total
         
     return total
+
+# using count function
+# return(ar.count(tallest))
